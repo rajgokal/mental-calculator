@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3565C80816E57A4D006ED39D /* Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80416E57A4D006ED39D /* Button.png */; };
+		3565C80916E57A4D006ED39D /* Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80516E57A4D006ED39D /* Button@2x.png */; };
+		3565C80A16E57A4D006ED39D /* ButtonHighlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80616E57A4D006ED39D /* ButtonHighlighted.png */; };
+		3565C80B16E57A4D006ED39D /* ButtonHighlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80716E57A4D006ED39D /* ButtonHighlighted@2x.png */; };
 		35E2D44716E5365E00648AA7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E2D44616E5365E00648AA7 /* UIKit.framework */; };
 		35E2D44916E5365E00648AA7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E2D44816E5365E00648AA7 /* Foundation.framework */; };
 		35E2D44B16E5365E00648AA7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E2D44A16E5365E00648AA7 /* CoreGraphics.framework */; };
@@ -44,6 +48,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3565C80416E57A4D006ED39D /* Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button.png; sourceTree = "<group>"; };
+		3565C80516E57A4D006ED39D /* Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button@2x.png"; sourceTree = "<group>"; };
+		3565C80616E57A4D006ED39D /* ButtonHighlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonHighlighted.png; sourceTree = "<group>"; };
+		3565C80716E57A4D006ED39D /* ButtonHighlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ButtonHighlighted@2x.png"; sourceTree = "<group>"; };
 		35E2D44316E5365E00648AA7 /* Mental Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mental Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35E2D44616E5365E00648AA7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		35E2D44816E5365E00648AA7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -101,6 +109,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3565C80316E57A34006ED39D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3565C80416E57A4D006ED39D /* Button.png */,
+				3565C80516E57A4D006ED39D /* Button@2x.png */,
+				3565C80616E57A4D006ED39D /* ButtonHighlighted.png */,
+				3565C80716E57A4D006ED39D /* ButtonHighlighted@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		35E2D43A16E5365E00648AA7 = {
 			isa = PBXGroup;
 			children = (
@@ -156,6 +175,7 @@
 		35E2D44D16E5365E00648AA7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3565C80316E57A34006ED39D /* Images */,
 				35E2D44E16E5365E00648AA7 /* Mental Calculator-Info.plist */,
 				35E2D44F16E5365E00648AA7 /* InfoPlist.strings */,
 				35E2D45216E5365E00648AA7 /* main.m */,
@@ -270,6 +290,10 @@
 				35E2D47116E5365E00648AA7 /* CalcFirstViewController_iPad.xib in Resources */,
 				35E2D47416E5365E00648AA7 /* CalcSecondViewController_iPhone.xib in Resources */,
 				35E2D47716E5365E00648AA7 /* CalcSecondViewController_iPad.xib in Resources */,
+				3565C80816E57A4D006ED39D /* Button.png in Resources */,
+				3565C80916E57A4D006ED39D /* Button@2x.png in Resources */,
+				3565C80A16E57A4D006ED39D /* ButtonHighlighted.png in Resources */,
+				3565C80B16E57A4D006ED39D /* ButtonHighlighted@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +538,7 @@
 				35E2D49116E5365F00648AA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		35E2D49216E5365F00648AA7 /* Build configuration list for PBXNativeTarget "Mental CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +547,7 @@
 				35E2D49416E5365F00648AA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
