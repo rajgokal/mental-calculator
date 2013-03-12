@@ -11,6 +11,22 @@
 		3565C80916E57A4D006ED39D /* Button@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80516E57A4D006ED39D /* Button@2x.png */; };
 		3565C80A16E57A4D006ED39D /* ButtonHighlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80616E57A4D006ED39D /* ButtonHighlighted.png */; };
 		3565C80B16E57A4D006ED39D /* ButtonHighlighted@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80716E57A4D006ED39D /* ButtonHighlighted@2x.png */; };
+		3565C81D16E58D07006ED39D /* Gotham-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80D16E58D07006ED39D /* Gotham-Book.ttf */; };
+		3565C81E16E58D07006ED39D /* Gotham-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80E16E58D07006ED39D /* Gotham-Black.ttf */; };
+		3565C81F16E58D07006ED39D /* Gotham-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C80F16E58D07006ED39D /* Gotham-BlackItalic.ttf */; };
+		3565C82016E58D07006ED39D /* Gotham-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81016E58D07006ED39D /* Gotham-Bold.ttf */; };
+		3565C82116E58D07006ED39D /* Gotham-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81116E58D07006ED39D /* Gotham-BoldItalic.ttf */; };
+		3565C82216E58D07006ED39D /* Gotham-BookItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81216E58D07006ED39D /* Gotham-BookItalic.ttf */; };
+		3565C82316E58D07006ED39D /* Gotham-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81316E58D07006ED39D /* Gotham-Light.ttf */; };
+		3565C82416E58D07006ED39D /* Gotham-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81416E58D07006ED39D /* Gotham-LightItalic.ttf */; };
+		3565C82516E58D07006ED39D /* Gotham-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81516E58D07006ED39D /* Gotham-Medium.ttf */; };
+		3565C82616E58D07006ED39D /* Gotham-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81616E58D07006ED39D /* Gotham-MediumItalic.ttf */; };
+		3565C82716E58D07006ED39D /* Gotham-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81716E58D07006ED39D /* Gotham-Thin.ttf */; };
+		3565C82816E58D07006ED39D /* Gotham-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81816E58D07006ED39D /* Gotham-ThinItalic.ttf */; };
+		3565C82916E58D07006ED39D /* Gotham-Ultra.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81916E58D07006ED39D /* Gotham-Ultra.ttf */; };
+		3565C82A16E58D07006ED39D /* Gotham-UltraItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81A16E58D07006ED39D /* Gotham-UltraItalic.ttf */; };
+		3565C82B16E58D07006ED39D /* Gotham-XLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81B16E58D07006ED39D /* Gotham-XLight.ttf */; };
+		3565C82C16E58D07006ED39D /* Gotham-XLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81C16E58D07006ED39D /* Gotham-XLightItalic.ttf */; };
 		35E2D44716E5365E00648AA7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E2D44616E5365E00648AA7 /* UIKit.framework */; };
 		35E2D44916E5365E00648AA7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E2D44816E5365E00648AA7 /* Foundation.framework */; };
 		35E2D44B16E5365E00648AA7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E2D44A16E5365E00648AA7 /* CoreGraphics.framework */; };
@@ -35,6 +51,7 @@
 		35E2D48116E5365E00648AA7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E2D44816E5365E00648AA7 /* Foundation.framework */; };
 		35E2D48916E5365F00648AA7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35E2D48716E5365F00648AA7 /* InfoPlist.strings */; };
 		35E2D48C16E5365F00648AA7 /* Mental_CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 35E2D48B16E5365F00648AA7 /* Mental_CalculatorTests.m */; };
+		35F7F65916E6CA6A00169F2C /* Gotham-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3565C81516E58D07006ED39D /* Gotham-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +69,22 @@
 		3565C80516E57A4D006ED39D /* Button@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button@2x.png"; sourceTree = "<group>"; };
 		3565C80616E57A4D006ED39D /* ButtonHighlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonHighlighted.png; sourceTree = "<group>"; };
 		3565C80716E57A4D006ED39D /* ButtonHighlighted@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ButtonHighlighted@2x.png"; sourceTree = "<group>"; };
+		3565C80D16E58D07006ED39D /* Gotham-Book.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Book.ttf"; sourceTree = "<group>"; };
+		3565C80E16E58D07006ED39D /* Gotham-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Black.ttf"; sourceTree = "<group>"; };
+		3565C80F16E58D07006ED39D /* Gotham-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-BlackItalic.ttf"; sourceTree = "<group>"; };
+		3565C81016E58D07006ED39D /* Gotham-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Bold.ttf"; sourceTree = "<group>"; };
+		3565C81116E58D07006ED39D /* Gotham-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-BoldItalic.ttf"; sourceTree = "<group>"; };
+		3565C81216E58D07006ED39D /* Gotham-BookItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-BookItalic.ttf"; sourceTree = "<group>"; };
+		3565C81316E58D07006ED39D /* Gotham-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Light.ttf"; sourceTree = "<group>"; };
+		3565C81416E58D07006ED39D /* Gotham-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-LightItalic.ttf"; sourceTree = "<group>"; };
+		3565C81516E58D07006ED39D /* Gotham-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Medium.ttf"; sourceTree = "<group>"; };
+		3565C81616E58D07006ED39D /* Gotham-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-MediumItalic.ttf"; sourceTree = "<group>"; };
+		3565C81716E58D07006ED39D /* Gotham-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Thin.ttf"; sourceTree = "<group>"; };
+		3565C81816E58D07006ED39D /* Gotham-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-ThinItalic.ttf"; sourceTree = "<group>"; };
+		3565C81916E58D07006ED39D /* Gotham-Ultra.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-Ultra.ttf"; sourceTree = "<group>"; };
+		3565C81A16E58D07006ED39D /* Gotham-UltraItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-UltraItalic.ttf"; sourceTree = "<group>"; };
+		3565C81B16E58D07006ED39D /* Gotham-XLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-XLight.ttf"; sourceTree = "<group>"; };
+		3565C81C16E58D07006ED39D /* Gotham-XLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gotham-XLightItalic.ttf"; sourceTree = "<group>"; };
 		35E2D44316E5365E00648AA7 /* Mental Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mental Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35E2D44616E5365E00648AA7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		35E2D44816E5365E00648AA7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -120,6 +153,29 @@
 			name = Images;
 			sourceTree = "<group>";
 		};
+		3565C80C16E58CF4006ED39D /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				3565C80D16E58D07006ED39D /* Gotham-Book.ttf */,
+				3565C80E16E58D07006ED39D /* Gotham-Black.ttf */,
+				3565C80F16E58D07006ED39D /* Gotham-BlackItalic.ttf */,
+				3565C81016E58D07006ED39D /* Gotham-Bold.ttf */,
+				3565C81116E58D07006ED39D /* Gotham-BoldItalic.ttf */,
+				3565C81216E58D07006ED39D /* Gotham-BookItalic.ttf */,
+				3565C81316E58D07006ED39D /* Gotham-Light.ttf */,
+				3565C81416E58D07006ED39D /* Gotham-LightItalic.ttf */,
+				3565C81516E58D07006ED39D /* Gotham-Medium.ttf */,
+				3565C81616E58D07006ED39D /* Gotham-MediumItalic.ttf */,
+				3565C81716E58D07006ED39D /* Gotham-Thin.ttf */,
+				3565C81816E58D07006ED39D /* Gotham-ThinItalic.ttf */,
+				3565C81916E58D07006ED39D /* Gotham-Ultra.ttf */,
+				3565C81A16E58D07006ED39D /* Gotham-UltraItalic.ttf */,
+				3565C81B16E58D07006ED39D /* Gotham-XLight.ttf */,
+				3565C81C16E58D07006ED39D /* Gotham-XLightItalic.ttf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		35E2D43A16E5365E00648AA7 = {
 			isa = PBXGroup;
 			children = (
@@ -175,6 +231,7 @@
 		35E2D44D16E5365E00648AA7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3565C80C16E58CF4006ED39D /* Fonts */,
 				3565C80316E57A34006ED39D /* Images */,
 				35E2D44E16E5365E00648AA7 /* Mental Calculator-Info.plist */,
 				35E2D44F16E5365E00648AA7 /* InfoPlist.strings */,
@@ -294,6 +351,7 @@
 				3565C80916E57A4D006ED39D /* Button@2x.png in Resources */,
 				3565C80A16E57A4D006ED39D /* ButtonHighlighted.png in Resources */,
 				3565C80B16E57A4D006ED39D /* ButtonHighlighted@2x.png in Resources */,
+				35F7F65916E6CA6A00169F2C /* Gotham-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +360,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				35E2D48916E5365F00648AA7 /* InfoPlist.strings in Resources */,
+				3565C81D16E58D07006ED39D /* Gotham-Book.ttf in Resources */,
+				3565C81E16E58D07006ED39D /* Gotham-Black.ttf in Resources */,
+				3565C81F16E58D07006ED39D /* Gotham-BlackItalic.ttf in Resources */,
+				3565C82016E58D07006ED39D /* Gotham-Bold.ttf in Resources */,
+				3565C82116E58D07006ED39D /* Gotham-BoldItalic.ttf in Resources */,
+				3565C82216E58D07006ED39D /* Gotham-BookItalic.ttf in Resources */,
+				3565C82316E58D07006ED39D /* Gotham-Light.ttf in Resources */,
+				3565C82416E58D07006ED39D /* Gotham-LightItalic.ttf in Resources */,
+				3565C82516E58D07006ED39D /* Gotham-Medium.ttf in Resources */,
+				3565C82616E58D07006ED39D /* Gotham-MediumItalic.ttf in Resources */,
+				3565C82716E58D07006ED39D /* Gotham-Thin.ttf in Resources */,
+				3565C82816E58D07006ED39D /* Gotham-ThinItalic.ttf in Resources */,
+				3565C82916E58D07006ED39D /* Gotham-Ultra.ttf in Resources */,
+				3565C82A16E58D07006ED39D /* Gotham-UltraItalic.ttf in Resources */,
+				3565C82B16E58D07006ED39D /* Gotham-XLight.ttf in Resources */,
+				3565C82C16E58D07006ED39D /* Gotham-XLightItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -10,4 +10,10 @@
 
 @interface CalcFirstViewController : UIViewController
 
+@property (nonatomic, retain) UILabel *output;
+@property (nonatomic, retain) NSString *operatorMode;
+@property (nonatomic, retain) NSString *signMode;
+@property float firstNumber;
+@property float secondNumber;
+
 @end
